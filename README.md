@@ -1,10 +1,10 @@
 # React Express Bootstrap Starter App
 
-Simple starter app for REST API prototyping using React, Express, and Bootstrap.
+Simple starter app using React, Express, and Bootstrap.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Built to support RESTful API prototyping.
 
 ## Getting Started
 
@@ -49,9 +49,9 @@ Server:
 
 ## Authors
 
-Contributors names and contact info
+Contributors names and contact info can be found here.
 
-Matt Stuhring - [Check me out on LinkedIn](https://www.linkedin.com/in/mattstuhring/)
+Matt Stuhring - https://www.linkedin.com/in/mattstuhring/
 
 ## Version History
 
@@ -60,4 +60,4 @@ Matt Stuhring - [Check me out on LinkedIn](https://www.linkedin.com/in/mattstuhr
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the MIT License.
