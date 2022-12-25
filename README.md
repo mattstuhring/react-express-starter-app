@@ -8,46 +8,20 @@ An in-depth paragraph about your project and overview of use.
 
 ## Getting Started
 
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app). Then an Express server was added in the `server` directory. The server is proxied via the `proxy` key in `package.json`.
+
 ### Dependencies
 
 Client:
 
-- Bootstrap v5
 - React v18
 - React Router Dom v6
+- Bootstrap v5
 
 Server:
 
 - NodeJS v16
 - Express v4
-
-### Executing program
-
-- How to run the program
-
-```
-npm ins
-```
-
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
-
-- 0.1
-  - Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-# React application with Express server
-
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app). Then an Express server was added in the `server` directory. The server is proxied via the `proxy` key in `package.json`.
 
 ## Using this project
 
@@ -72,3 +46,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
    ```
 
    The React application will run on port 3000 and the server port 3001.
+
+## Authors
+
+Contributors names and contact info
+
+Matt Stuhring - [Check me out on LinkedIn](https://www.linkedin.com/in/mattstuhring/)
+
+## Version History
+
+- 0.1
+  - Initial Release
+
+## License
+
+This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
